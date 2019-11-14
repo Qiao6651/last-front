@@ -17,6 +17,8 @@
 }
 
 .content {
-  padding: 50px;
-  padding-top: 20px;
+  margin: 1em;
+}
+.submenu-title{
+  background-color: #3F51B5;
 }
