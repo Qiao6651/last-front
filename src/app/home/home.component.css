@@ -1,0 +1,14 @@
+.head {
+    margin-bottom: 30px;
+    
+}
+
+.cards {
+    text-align: center;
+}
+
+.counters-wrapper {
+    display: grid;
+    width: 100em;
+    
+}
